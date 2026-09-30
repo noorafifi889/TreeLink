@@ -166,7 +166,7 @@ function LinkInBio() {
 
           {/* spotlight */}
           <motion.a
-            href="https://protoflio-dusky.vercel.app/"
+            href="https://ai-outfit-recommendation-platform.vercel.app/"
             target="_blank"
             rel="noreferrer noopener"
             whileHover={{ scale: 1.015 }}
@@ -196,7 +196,7 @@ function LinkInBio() {
             subtitle="مشاريع مختارة وتفاصيل تقنية"
           />
           <LinkRow
-            href="https://protoflio-dusky.vercel.app/"
+            href="public/Noor_Al-Afifi_Resume_v3 (1).pdf"
             title="تحميل السيرة الذاتية (CV)"
             subtitle="نسخة PDF محدّثة"
             icon={Download}
